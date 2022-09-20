@@ -1,4 +1,4 @@
 hello 
-
+to check poll function
 this is first sample prgm.
 
